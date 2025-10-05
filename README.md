@@ -1,8 +1,8 @@
-# **Deterministic Simulation of a 900 MW PWR**
+# **Stochastics Neutronic Simulations**
 
 ## **Project Description**
 
-This repository contains a series of notebooks and Python scripts dedicated to the deterministic neutron simulation of a 900 MW French Pressurized Water Reactor (PWR). The objective is to provide an educational and practical approach to understanding and implementing diffusion models and numerical solvers applied to neutron physics.
+This repository contains a series of notebooks and Python scripts dedicated to the neutron simulation of nuclear reactors. The objective is to provide an educational and practical approach to understanding and implementing diffusion models and numerical solvers applied to neutron physics.
 
 ### **Main Content:**
 1. **Educational Notebooks:**
